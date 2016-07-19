@@ -1,169 +1,225 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2018.",
+    "name": "Thorsten Krug",
+    "label": "Web developer",
+    "picture": "/images/thorsten.krug.jpg",
+    "email": "thorsten.krug@donkeymedia.eu",
+    "phone": "+49 177 5387924",
+    "website": "https://donkeymedia.eu",
+    "summary": "Thorsten Krug started creating websites in 1997. He is a graduated photo engineer and full-stack web developer with a passion for open source software, agile teamwork and mobile-first architecture and design.",
     "location": {
-      "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
+      "address": "Eythstr. 29",
+      "postalCode": "51103",
+      "city": "Cologne",
+      "countryCode": "DE",
+      "region": "NRW"
     },
     "profiles": [
       {
+        "network": "Twitter",
+        "username": "digitaldonkey09",
+        "url": "https://twitter.com/digitaldonkey09"
+      },
+      {
+        "network": "drupal",
+        "username": "digitaldonkey",
+        "url": "https://www.drupal.org/u/digitaldonkey"
+      },
+      {
+        "network": "Linkedin",
+        "username": "thorsten-krug-77815061",
+        "url": "https://de.linkedin.com/in/thorsten-krug-77815061"
+      },
+      {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "digitaldonkey",
+        "url": "http://stackoverflow.com/users/308533/digitaldonkey"
       },
       {
-        "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "network": "wordpress",
+        "username": "digitaldonkey",
+        "url": "https://profiles.wordpress.org/digitaldonkey"
       },
       {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "network": "stack overflow",
+        "username": "digitaldonkey",
+        "url": "http://stackoverflow.com/users/308533/digitaldonkey"
       }
     ]
   },
-  "interests": [
-    {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "artificial intelligence",
-      "keywords": [
-      ]
-    }
-  ],
-  "skills": [
-    {
-      "name": "Languages and Frameworks",
-      "level": "",
-      "keywords": [
-        "C",
-        "C++",
-        "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
-      ]
-    },
-    {
-      "name": "Toolsets/OS",
-      "level": "",
-      "keywords": [
-        "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
-      ]
-    }
-  ],
-  "education": [
-    {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
-      "gpa": "",
-      "courses": [
-      ]
-    }
-  ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "company": "Data in Transit GmbH",
+      "position": "Web developer",
+      "website": "http://dataintransit.com/",
+      "startDate": "2014-02-01",
+      "endDate": "2015-09-31",
+      "summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "University Website with Scrum Team h-brs.de",
+        "Intranet based evaluation tool with Drupal for major german phone company",
+        "and much more"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "Webmatch GmbH",
+      "position": "Web developer",
+      "website": "http://www.webmatch.de/",
+      "startDate": "2011-05-01",
+      "endDate": "2013-09-31",
+      "summary": "Marketing focussed company. Creating and maintaining multiple Facebook games, Onlineshops, Drupal and CakePhp based websites. Server infra structure management, Asterisk phone system and more. ",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        ""
       ]
+    },
+    {
+      "company": "wergehthin Ltd",
+      "position": "CTO",
+      "website": "#offline",
+      "startDate": "2011-04-01",
+      "endDate": "2013-03-31",
+      "summary": "Event/City magazin startup",
+      "highlights": [
+        "Migrate/relaunch Java based site in Drupal 7",
+        "Responsive Redesign in Drupal 7",
+        "Open layers map integration"
+      ]
+    },
+    {
+      "company": "Donkeymedia",
+      "position": "Founder",
+      "website": "http://donkeymedia.eu",
+      "startDate": "2014-01-01",
+      "endDate": "2078-01-01",
+      "summary": "",
+      "highlights": []
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+      "organization": "Drupal.org",
+      "position": "Community member",
+      "website": "http://drupal.org",
+      "startDate": "2008-02-01",
+      "endDate": "2078-01-01",
+      "summary": "Module and Theming Commits to multiple drupal projects.",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Applied Science Cologne",
+      "area": "Photo Engineering / Media Technics",
+      "studyType": "Graduate Engineer",
+      "startDate": "2001-09-01",
+      "endDate": "2006-01-01",
+      "gpa": "2+ (1.9 in German Academic grading)",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [
+    {
+      "name": "Colormanagement in the Internet (Thesis, German)",
+      "publisher": "Thorsten Krug",
+      "releaseDate": "2006-01-01",
+      "website": "http://bit.ly/29JVSOI",
+      "summary": "This document is an investigation on previous approaches for Colormanagement within world wide web and analyses recommendations for Colormanagement of the W3C in the field of cross-media publishing using XML-based documents. The intended audience are web developers aiming at the use of Colormanagement func- tions within webapplications. The practical part is about using Open Source software for server-sided image manipulation."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "Drupal 6-8, Shopware, Wordpress, OpenCMS and more",
+        "MVC, Codeigniter, CakePHP",
+        "Phpstorm, Photoshop, Illustrator, Indesign, Balsamic Mockups, Adobe Premiere, Audition and more",
+        "Linux Server, Homebrew, Macports, Apache, MYSQL, Vagrant, Docker ",
+        "SCRUM, Kanban, Redmine, Jira",
+        "Git, SVN, professional workflows"
       ]
     },
     {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+      "name": "Frontend development",
+      "level": "Master",
+      "keywords": [
+        "Style guide driven development",
+        "HTML (all standards)",
+        "CSS, SASS, LESS",
+        "Javascript, JS-Frameworks, ES6, TypeScript, Angular2",
+        "Node, Gulp, Bootstrap, Foundation, KSS-Node"
+      ]
+    },
+    {
+      "name": "Drupal development",
+      "level": "Master",
+      "keywords": [
+        "Drupal responsive Architecture",
+        "Drupal Theming",
+        "Drupal Module development (D6-D8)",
+        "Styleguide driven theme development"
       ]
     }
   ],
-  "awards": [
+  "languages": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "language": "German",
+      "fluency": "Native speaker"
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "language": "English",
+      "fluency": "Full Professional Proficiency"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Limited Working Proficiency"
+    },
+    {
+      "language": "French",
+      "fluency": "Limited Working Proficiency"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Computers",
+      "keywords": [
+        "Cryptography",
+        "Bitcoin, Ethereum",
+        "Internet Security, Hacking"
+      ]
+    },
+    {
+      "name": "DIY",
+      "keywords": [
+        "Hands on mentality",
+        "Electronics, Soldering, Raspberry Pi",
+        "Woodworking, Mechatronics, Caravans"
+      ]
+    },
+    {
+      "name": "Photography",
+      "keywords": [
+        "Documentary, Photojournalism",
+        "Darkroom",
+        "Digital imaging"
+      ]
+    },
+    {
+      "name": "Sports",
+      "keywords": [
+        "Climbing",
+        "Hikiing",
+        "Cycling",
+        "Volleyball",
+        "Badminton"
+      ]
     }
   ],
   "references": [
     {
-      "name": "Available upon request",
-      "reference": ""
+      "name": "http://donkeymedia.eu/references",
+      "reference": "Pubic reference list"
     }
   ]
 }
