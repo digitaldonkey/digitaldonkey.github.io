@@ -2,7 +2,7 @@
   "basics": {
     "name": "Thorsten Krug",
     "label": "Web developer",
-    "picture": "/images/thorsten.krug.jpg",
+    "picture": "",
     "email": "thorsten.krug@donkeymedia.eu",
     "phone": "+49 177 5387924",
     "website": "https://donkeymedia.eu",
@@ -21,27 +21,27 @@
         "url": "https://twitter.com/digitaldonkey09"
       },
       {
-        "network": "drupal",
+        "network": "drupal.org",
         "username": "digitaldonkey",
         "url": "https://www.drupal.org/u/digitaldonkey"
       },
       {
-        "network": "Linkedin",
+        "network": "Linked In",
         "username": "thorsten-krug-77815061",
         "url": "https://de.linkedin.com/in/thorsten-krug-77815061"
       },
       {
-        "network": "github",
+        "network": "github.com",
         "username": "digitaldonkey",
         "url": "http://stackoverflow.com/users/308533/digitaldonkey"
       },
       {
-        "network": "wordpress",
+        "network": "wordpress.org",
         "username": "digitaldonkey",
         "url": "https://profiles.wordpress.org/digitaldonkey"
       },
       {
-        "network": "stack overflow",
+        "network": "stackoverflow.com",
         "username": "digitaldonkey",
         "url": "http://stackoverflow.com/users/308533/digitaldonkey"
       }
@@ -54,11 +54,12 @@
       "website": "http://dataintransit.com/",
       "startDate": "2014-02-01",
       "endDate": "2015-09-31",
-      "summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.",
+      "summary": "Frontend lead and backend developer at quality Drupal agency. ",
       "highlights": [
-        "University Website with Scrum Team h-brs.de",
+        "Mobile first architecture and design for University Website h-brs.de",
         "Intranet based evaluation tool with Drupal for major german phone company",
-        "and much more"
+        "High productivity agile working with Scrum Team",
+        "Introducing SMACSS based CSS architecture "
       ]
     },
     {
@@ -69,7 +70,13 @@
       "endDate": "2013-09-31",
       "summary": "Marketing focussed company. Creating and maintaining multiple Facebook games, Onlineshops, Drupal and CakePhp based websites. Server infra structure management, Asterisk phone system and more. ",
       "highlights": [
-        ""
+        "Lots of facebook apps and competitions for well known trademarks",
+        "Drupal webites ",
+        "Shopware",
+        "Wordpress ",
+        "CakePHP websites",
+        "Refactoring companies server infrastructure ",
+        "Implementing Asterisk phone system"
       ]
     },
     {
@@ -80,6 +87,7 @@
       "endDate": "2013-03-31",
       "summary": "Event/City magazin startup",
       "highlights": [
+        "CTO and team lead for 4 developers",
         "Migrate/relaunch Java based site in Drupal 7",
         "Responsive Redesign in Drupal 7",
         "Open layers map integration"
@@ -89,10 +97,17 @@
       "company": "Donkeymedia",
       "position": "Founder",
       "website": "http://donkeymedia.eu",
-      "startDate": "2014-01-01",
+      "startDate": "2006-01-01",
       "endDate": "2078-01-01",
-      "summary": "",
-      "highlights": []
+      "summary": "Donkeymedia is my freelance company. I provide media engineering services, web technology and photography.",
+      "highlights": [
+        "Drupal engineering and theming",
+        "App and Frontend development. Style guide driven development.",
+        "Open Source Software consulting and implementation",
+        "Webshops for photographers",
+        "Training and consulting for photographers",
+        "Documentary photography"
+      ]
     }
   ],
   "volunteer": [
@@ -102,8 +117,33 @@
       "website": "http://drupal.org",
       "startDate": "2008-02-01",
       "endDate": "2078-01-01",
-      "summary": "Module and Theming Commits to multiple drupal projects.",
+      "summary": "Module, Theming and documentation Commits to multiple Drupal projects. Supporter in the Drupal community websites and Events",
+      "highlights": [
+        "Drupal Guru theme: Provides a SMACSS based style guide driven theming approach for Drupal 8",
+        "Co maintainer of the Ethereum Module"
+      ]
+    },
+    {
+      "organization": "Wordpress.org",
+      "position": "Community member",
+      "website": "Wordpress.org",
+      "startDate": "2010-10-14",
+      "endDate": "2078-01-01",
+      "summary": "Wordpress Extensions and community contributions",
       "highlights": []
+    },
+    {
+      "organization": "Activism for data liberation and human freedom",
+      "position": "",
+      "website": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "Since I started thinking I supported organisations and loosely bound activist groups caring for (data-)freedom, community, right to asylum and political change. I support by working in media/Public relation groups, provising digital support and creating and maintaining websites and donnations. ",
+      "highlights": [
+        "Public relations groups for local activists",
+        "Chaos Computer Club (CCC), Cryptoparty",
+        "Pro Asyl "
+      ]
     }
   ],
   "education": [
@@ -123,7 +163,7 @@
       "name": "Colormanagement in the Internet (Thesis, German)",
       "publisher": "Thorsten Krug",
       "releaseDate": "2006-01-01",
-      "website": "http://bit.ly/29JVSOI",
+      "website": "https://www.yumpu.com/de/document/view/39798405/diplomarbeit-pdf-35mb-donkeymedia/1",
       "summary": "This document is an investigation on previous approaches for Colormanagement within world wide web and analyses recommendations for Colormanagement of the W3C in the field of cross-media publishing using XML-based documents. The intended audience are web developers aiming at the use of Colormanagement func- tions within webapplications. The practical part is about using Open Source software for server-sided image manipulation."
     }
   ],
@@ -132,10 +172,10 @@
       "name": "Web Development",
       "level": "Master",
       "keywords": [
-        "Drupal 6-8, Shopware, Wordpress, OpenCMS and more",
-        "MVC, Codeigniter, CakePHP",
+        "Drupal 6-8, Shopware, Wordpress, OpenCMS and many more",
+        "MVC, Codeigniter, CakePHP, Symfony",
         "Phpstorm, Photoshop, Illustrator, Indesign, Balsamic Mockups, Adobe Premiere, Audition and more",
-        "Linux Server, Homebrew, Macports, Apache, MYSQL, Vagrant, Docker ",
+        "Linux Server, Homebrew, Macports, Apache, MYSQL, Vagrant, Docker, high performance web",
         "SCRUM, Kanban, Redmine, Jira",
         "Git, SVN, professional workflows"
       ]
@@ -159,6 +199,16 @@
         "Drupal Theming",
         "Drupal Module development (D6-D8)",
         "Styleguide driven theme development"
+      ]
+    },
+    {
+      "name": "Team building and organisation",
+      "level": "",
+      "keywords": [
+        "SCRUM, Kanban",
+        "Inclusion",
+        "Group psychology",
+        "Ticket systems: Redmine, Github, Jira ..."
       ]
     }
   ],
@@ -184,8 +234,9 @@
     {
       "name": "Computers",
       "keywords": [
+        "Web and human interaction",
         "Cryptography",
-        "Bitcoin, Ethereum",
+        "Decentralisation, Bitcoin, Ethereum",
         "Internet Security, Hacking"
       ]
     },
@@ -219,7 +270,7 @@
   "references": [
     {
       "name": "http://donkeymedia.eu/references",
-      "reference": "Pubic reference list"
+      "reference": "Please checkout "
     }
   ]
 }
