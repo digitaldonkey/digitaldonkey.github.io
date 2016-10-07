@@ -2,8 +2,8 @@
   "basics": {
     "name": "Thorsten Krug",
     "label": "Web developer",
-    "picture": "",
-    "email": "thorsten.krug@donkeymedia.eu",
+	"picture": "/images/thorsten.krug.jpg",
+	"email": "thorsten.krug@donkeymedia.eu",
     "phone": "+49 177 5387924",
     "website": "https://donkeymedia.eu",
     "summary": "Thorsten Krug started creating websites in 1997. He graduated from a photo engineering program and is a full-stack web developer with a passion for open source software, agile teamwork and mobile-first architecture and design.",
