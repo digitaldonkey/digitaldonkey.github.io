@@ -6,7 +6,7 @@
     "email": "thorsten.krug@donkeymedia.eu",
     "phone": "+49 177 5387924",
     "website": "https://donkeymedia.eu",
-    "summary": "Thorsten Krug started creating websites in 1997. He is a graduated photo engineer and full-stack web developer with a passion for open source software, agile teamwork and mobile-first architecture and design.",
+    "summary": "Thorsten Krug started creating websites in 1997. He graduated from a photo engineering program and is a full-stack web developer with a passion for open source software, agile teamwork and mobile-first architecture and design.",
     "location": {
       "address": "Eythstr. 29",
       "postalCode": "51103",
@@ -49,17 +49,26 @@
   },
   "work": [
     {
+      "company": "Reinblau",
+      "position": "Front- and Backend developer",
+      "website": "https://reinblau.de",
+      "startDate": "2016-01-03",
+      "endDate": "2078-01-03",
+      "summary": "Member of freelance web developer cooperative.",
+      "highlights": []
+    },
+    {
       "company": "Data in Transit GmbH",
       "position": "Web developer",
       "website": "http://dataintransit.com/",
       "startDate": "2014-02-01",
       "endDate": "2015-09-31",
-      "summary": "Frontend lead and backend developer at quality Drupal agency. ",
+      "summary": "Frontend lead and backend developer at a high quality Drupal agency. ",
       "highlights": [
         "Mobile first architecture and design for University Website h-brs.de",
-        "Intranet based evaluation tool with Drupal for major german phone company",
-        "High productivity agile working with Scrum Team",
-        "Introducing SMACSS based CSS architecture "
+        "Drupal-based Intranet evaluation tool for a major German phone company",
+        "High productivity agile development with Scrum Teams",
+        "Introduced SMACSS standards-based CSS architecture "
       ]
     },
     {
@@ -68,29 +77,29 @@
       "website": "http://www.webmatch.de/",
       "startDate": "2011-05-01",
       "endDate": "2013-09-31",
-      "summary": "Marketing focussed company. Creating and maintaining multiple Facebook games, Onlineshops, Drupal and CakePhp based websites. Server infra structure management, Asterisk phone system and more. ",
+      "summary": "Marketing-focused company creating and maintaining multiple Facebook games, e-commerce shops, and Drupal and CakePHP-based websites.",
       "highlights": [
-        "Lots of facebook apps and competitions for well known trademarks",
+        "Numerous Facebook apps and competitions for well-known brands",
         "Drupal webites ",
         "Shopware",
-        "Wordpress ",
+        "WordPress ",
         "CakePHP websites",
-        "Refactoring companies server infrastructure ",
+        "Refactoring Server Infrastructure ",
         "Implementing Asterisk phone system"
       ]
     },
     {
-      "company": "wergehthin Ltd",
-      "position": "CTO",
-      "website": "#offline",
+      "company": "Wergehthin LTD",
+      "position": "CTO / Team lead",
+      "website": "(Now offline)",
       "startDate": "2011-04-01",
       "endDate": "2013-03-31",
-      "summary": "Event/City magazin startup",
+      "summary": "Event/City magazine startup",
       "highlights": [
-        "CTO and team lead for 4 developers",
-        "Migrate/relaunch Java based site in Drupal 7",
-        "Responsive Redesign in Drupal 7",
-        "Open layers map integration"
+        "CTO and Team lead for 4 developers",
+        "Migrated/relaunched a Java-based site in Drupal 7",
+        "Responsive redesign in Drupal 7",
+        "Openlayers map integration"
       ]
     },
     {
@@ -99,11 +108,11 @@
       "website": "http://donkeymedia.eu",
       "startDate": "2006-01-01",
       "endDate": "2078-01-01",
-      "summary": "Donkeymedia is my freelance company. I provide media engineering services, web technology and photography.",
+      "summary": "Donkeymedia is my freelance company. I provide media engineering services, web development and photography.",
       "highlights": [
         "Drupal engineering and theming",
-        "App and Frontend development. Style guide driven development.",
-        "Open Source Software consulting and implementation",
+        "App and Frontend development. Style-guide driven development",
+        "Open Source software consulting and implementation",
         "Webshops for photographers",
         "Training and consulting for photographers",
         "Documentary photography"
@@ -117,19 +126,19 @@
       "website": "http://drupal.org",
       "startDate": "2008-02-01",
       "endDate": "2078-01-01",
-      "summary": "Module, Theming and documentation Commits to multiple Drupal projects. Supporter in the Drupal community websites and Events",
+      "summary": "Module, Theming and Documentation commits to multiple Drupal projects. Supporter of Drupal community websites and events",
       "highlights": [
-        "Drupal Guru theme: Provides a SMACSS based style guide driven theming approach for Drupal 8",
-        "Co maintainer of the Ethereum Module"
+        "Drupal Guru theme: Provides a SMACSS standards-based styleguide-driven theming approach for Drupal 8",
+        "Co-maintainer of the Drupal Ethereum Module"
       ]
     },
     {
       "organization": "Wordpress.org",
       "position": "Community member",
-      "website": "Wordpress.org",
+      "website": "http://wordpress.org",
       "startDate": "2010-10-14",
       "endDate": "2078-01-01",
-      "summary": "Wordpress Extensions and community contributions",
+      "summary": "Wordpress extensions and community contributions",
       "highlights": []
     },
     {
@@ -138,11 +147,11 @@
       "website": "",
       "startDate": "",
       "endDate": "",
-      "summary": "Since I started thinking I supported organisations and loosely bound activist groups caring for (data-)freedom, community, right to asylum and political change. I support by working in media/Public relation groups, provising digital support and creating and maintaining websites and donnations. ",
+      "summary": "I support organisations and loosely-bound activist groups caring for (data-)freedom, community, right to asylum and political change by working in media/public relations groups, providing digital support and creating and maintaining websites and donations. ",
       "highlights": [
         "Public relations groups for local activists",
         "Chaos Computer Club (CCC), Cryptoparty",
-        "Pro Asyl "
+        "Pro Asylum groups"
       ]
     }
   ],
@@ -150,7 +159,7 @@
     {
       "institution": "University of Applied Science Cologne",
       "area": "Photo Engineering / Media Technics",
-      "studyType": "Graduate Engineer",
+      "studyType": "Graduate Engineer (Diplom Ingeieur FH)",
       "startDate": "2001-09-01",
       "endDate": "2006-01-01",
       "gpa": "2+ (1.9 in German Academic grading)",
@@ -160,11 +169,11 @@
   "awards": [],
   "publications": [
     {
-      "name": "Colormanagement in the Internet (Thesis, German)",
+      "name": "Color Management in the Internet (Thesis, German)",
       "publisher": "Thorsten Krug",
       "releaseDate": "2006-01-01",
       "website": "https://www.yumpu.com/de/document/view/39798405/diplomarbeit-pdf-35mb-donkeymedia/1",
-      "summary": "This document is an investigation on previous approaches for Colormanagement within world wide web and analyses recommendations for Colormanagement of the W3C in the field of cross-media publishing using XML-based documents. The intended audience are web developers aiming at the use of Colormanagement func- tions within webapplications. The practical part is about using Open Source software for server-sided image manipulation."
+      "summary": "This document is an investigation of previous approaches for Color Management within the World Wide Web and analyses recommendations for Color Management of the W3C with respect to cross-media publishing using XML-based documents. The intended audience is web developers aiming to use Color Management functions within web applications. The practical part is about using open source software for server-side image manipulation."
     }
   ],
   "skills": [
@@ -184,7 +193,7 @@
       "name": "Frontend development",
       "level": "Master",
       "keywords": [
-        "Style guide driven development",
+        "Styleguide-driven development",
         "HTML (all standards)",
         "CSS, SASS, LESS",
         "Javascript, JS-Frameworks, ES6, TypeScript, Angular2",
@@ -195,10 +204,10 @@
       "name": "Drupal development",
       "level": "Master",
       "keywords": [
-        "Drupal responsive Architecture",
+        "Drupal Responsive Architecture",
         "Drupal Theming",
         "Drupal Module development (D6-D8)",
-        "Styleguide driven theme development"
+        "Styleguide-driven theme development"
       ]
     },
     {
@@ -243,7 +252,7 @@
     {
       "name": "DIY",
       "keywords": [
-        "Hands on mentality",
+        "Hands-on mentality",
         "Electronics, Soldering, Raspberry Pi",
         "Woodworking, Mechatronics, Caravans"
       ]
@@ -253,7 +262,7 @@
       "keywords": [
         "Documentary, Photojournalism",
         "Darkroom",
-        "Digital imaging"
+        "Digital Imaging"
       ]
     },
     {
