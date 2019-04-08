@@ -6,7 +6,7 @@
 	"email": "thorsten.krug@donkeymedia.eu",
     "phone": "+49 177 5387924",
     "website": "https://donkeymedia.eu",
-    "summary": "Thorsten Krug started creating websites in 1997. He graduated from a photo engineering program and is a full-stack web developer with a passion for open source software, agile teamwork and mobile-first architecture and design.",
+    "summary": "Thorsten Krug started creating websites in 1997. He graduated from a photo engineering program and is a full-stack web developer with a passion for open source software, agile teamwork and mobile-first architecture and design. ",
     "location": {
       "address": "Eythstr. 29",
       "postalCode": "51103",
@@ -49,11 +49,25 @@
   },
   "work": [
     {
+      "company": "ConsenSys",
+      "position": "Front- and Backend developer in the Ethereum World",
+      "website": "https://consensys.net",
+      "startDate": "2017-01-01",
+      "endDate": "2019-28-02",
+      "summary": "Ethereum Startup: OpenSource and Enterprise development.",
+      "highlights": [
+        "Ethereum PHP Library 'Ethereum-php'",
+        "Ethereum Drupal module",
+        "Web3-ready",
+        "..."
+      ]
+    },
+    {
       "company": "Reinblau",
       "position": "Front- and Backend developer",
       "website": "https://reinblau.de",
       "startDate": "2016-01-03",
-      "endDate": "2078-01-03",
+      "endDate": "2019-01-01",
       "summary": "Member of freelance web developer cooperative.",
       "highlights": []
     },
@@ -197,8 +211,8 @@ endDate": "2078-01-01",
         "Styleguide-driven development",
         "HTML (all standards)",
         "CSS, SASS, LESS",
-        "Javascript, JS-Frameworks, ES6, TypeScript, Angular2",
-        "Node, Gulp, Bootstrap, Foundation, KSS-Node"
+        "Javascript, JS-Frameworks, ES6, REACT, Vue, TypeScript, Angular2",
+        "Node, Npm, Webpack, weGulp, Bootstrap, Foundation, KSS-Node"
       ]
     },
     {
