@@ -21,9 +21,9 @@
         "url": "https://twitter.com/digitaldonkey09"
       },
       {
-        "network": "drupal",
+        "network": "github",
         "username": "digitaldonkey",
-        "url": "https://www.drupal.org/u/digitaldonkey"
+        "url": "http://stackoverflow.com/users/308533/digitaldonkey"
       },
       {
         "network": "LinkedIn",
@@ -31,9 +31,14 @@
         "url": "https://de.linkedin.com/in/thorsten-krug-77815061"
       },
       {
-        "network": "github",
+        "network": "drupal",
         "username": "digitaldonkey",
-        "url": "http://stackoverflow.com/users/308533/digitaldonkey"
+        "url": "https://www.drupal.org/u/digitaldonkey"
+      },
+      {
+        "network": "slideshare",
+        "username": "digitaldonkey",
+        "url": "https://slides.com/digitaldonkey"
       },
       {
         "network": "wordpress",
@@ -58,7 +63,8 @@
       "highlights": [
         "Ethereum PHP Library 'Ethereum-php'",
         "Ethereum Drupal module",
-        "Web3-ready Ethereum Frontend Abstraction"
+        "Web3-ready Ethereum Frontend Abstraction",
+        "Prove of concept: Ethereum Blockchain technology as land registry for Dubai."
       ]
     },
     {
@@ -120,7 +126,7 @@
       "position": "Founder",
       "website": "http://donkeymedia.eu",
       "startDate": "2006-01-01",
-      "endDate": "2078-01-01",
+      "endDate": "2099-01-01",
       "summary": "Donkeymedia is my freelance company. I provide media engineering services, web development and photography.",
       "highlights": [
         "Drupal engineering and theming",
@@ -138,7 +144,7 @@
       "position": "Community member",
       "website": "http://drupal.org",
       "startDate": "2008-02-01",
-      "endDate": "2078-01-01",
+      "endDate": "2099-01-01",
       "summary": "Module, Theming and Documentation commits to multiple Drupal projects. Supporter of Drupal community websites and events",
       "highlights": [
         "Drupal Guru theme: Provides a SMACSS standards-based styleguide-driven theming approach for Drupal 8",
@@ -150,7 +156,7 @@
       "position": "Community member",
       "website": "http://wordpress.org",
       "startDate": "2010-10-14",
-      "endDate": "2078-01-01",
+      "endDate": "2099-01-01",
       "summary": "Wordpress extensions and community contributions",
       "highlights": []
     },
@@ -159,8 +165,7 @@
       "position": "",
       "website": "",
       "startDate": "1997-06-01",
-      "endDate": "2078-01-01",
-endDate": "2078-01-01",
+      "endDate": "2099-01-01",
       "summary": "I support organisations and loosely-bound activist groups caring for (data-)freedom, community, right to asylum and political change by working in media/public relations groups, providing digital support and creating and maintaining websites and donations. ",
       "highlights": [
         "Public relations groups for local activists",
@@ -211,7 +216,7 @@ endDate": "2078-01-01",
         "HTML (all standards)",
         "CSS, SASS, LESS",
         "Javascript, JS-Frameworks, ES6, REACT, Vue, TypeScript, Angular2",
-        "Node, Npm, Webpack, weGulp, Bootstrap, Foundation, KSS-Node"
+        "Node, Npm, Webpack, Gulp, Bootstrap, Foundation, KSS-Node"
       ]
     },
     {
@@ -229,8 +234,8 @@ endDate": "2078-01-01",
       "level": "",
       "keywords": [
         "SCRUM, Kanban",
-        "Inclusion",
-        "Group psychology",
+        "Remote (first) working experience",
+        "Inclusion, Group psychology",
         "Ticket systems: Redmine, Github, Jira ..."
       ]
     }
@@ -242,15 +247,15 @@ endDate": "2078-01-01",
     },
     {
       "language": "English",
-      "fluency": "Full Professional Proficiency"
+      "fluency": "Full Professional Proficiency. Experienced working in international companies."
     },
     {
       "language": "Spanish",
-      "fluency": "Limited Working Proficiency"
+      "fluency": "Elementary / Limited Working Proficiency"
     },
     {
       "language": "French",
-      "fluency": "Limited Working Proficiency"
+      "fluency": "Elementary / Limited Working Proficiency"
     }
   ],
   "interests": [
@@ -259,7 +264,7 @@ endDate": "2078-01-01",
       "keywords": [
         "Web and human interaction",
         "Cryptography",
-        "Decentralisation, Bitcoin, Ethereum",
+        "Decentralisation, Ethereum, Bitcoin",
         "Internet Security, Hacking"
       ]
     },
@@ -292,8 +297,8 @@ endDate": "2078-01-01",
   ],
   "references": [
     {
-      "name": "http://donkeymedia.eu/references",
-      "reference": "Please checkout "
+      "name": "An incomplete project list you can find on my website",
+      "reference": "http://donkeymedia.eu/references"
     }
   ]
 }
