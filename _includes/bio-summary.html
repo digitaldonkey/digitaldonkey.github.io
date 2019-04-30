@@ -1,0 +1,22 @@
+<!-- Used by theme-bio-summary -->
+
+{% if site.data.bio.basics.summary %}
+<div class="row">
+  <div class="two wide column">
+    <h3 class="ui left aligned header no-bottom">Summary</h3>
+  </div>
+
+  <div class="ten wide column no-bottom">
+    <p class="ui">
+    {{ site.data.bio.basics.summary }}
+    </p>
+
+    {% if site.data.bio.basics.summaryExtended %}
+    <p class="ui">
+      {{ site.data.bio.basics.summaryExtended }}
+    </p>
+    {% endif %}
+
+  </div>
+</div>
+{% endif %}

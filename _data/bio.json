@@ -6,7 +6,8 @@
 	"email": "thorsten.krug@donkeymedia.eu",
     "phone": "+49 177 5387924",
     "website": "https://donkeymedia.eu",
-    "summary": "Thorsten Krug started creating websites in 1997. He graduated from a photo engineering program and is a full-stack web developer with a passion for open source software, agile teamwork and mobile-first architecture and design. ",
+    "summary": "Thorsten Krug started creating websites in 1997. He graduated from a photo engineering program and is a senior full-stack web developer with a passion for open source software, agile teamwork and mobile-first architecture and design. ",
+    "summaryExtended": "Experienced in backend PHP programming, module/plugin development with popular CMS are part of my skill set as well as a professional experience with decentralized blockchain technology.",
     "location": {
       "address": "Eythstr. 29",
       "postalCode": "51103",
@@ -17,74 +18,89 @@
     "profiles": [
       {
         "network": "Twitter",
-        "username": "digitaldonkey09",
+        "username": "Twitter",
         "url": "https://twitter.com/digitaldonkey09"
       },
       {
         "network": "github",
-        "username": "digitaldonkey",
-        "url": "http://stackoverflow.com/users/308533/digitaldonkey"
+        "username": "Github",
+        "url": "https://github.com/digitaldonkey"
       },
       {
         "network": "LinkedIn",
-        "username": "thorsten-krug-77815061",
+        "username": "LinkedIn",
         "url": "https://de.linkedin.com/in/thorsten-krug-77815061"
       },
       {
         "network": "drupal",
-        "username": "digitaldonkey",
+        "username": "Drupal",
         "url": "https://www.drupal.org/u/digitaldonkey"
       },
       {
         "network": "slideshare",
-        "username": "digitaldonkey",
+        "username": "Slides",
         "url": "https://slides.com/digitaldonkey"
       },
       {
         "network": "wordpress",
-        "username": "digitaldonkey",
+        "username": "Wordpress",
         "url": "https://profiles.wordpress.org/digitaldonkey"
       },
       {
         "network": "stack overflow",
-        "username": "digitaldonkey",
-        "url": "http://stackoverflow.com/users/308533/digitaldonkey"
+        "username": "Stackoverflow",
+        "url": "https://stackoverflow.com/users/308533/digitaldonkey"
       }
     ]
   },
   "work": [
     {
       "company": "ConsenSys",
-      "position": "Front- and Backend developer in the Ethereum World",
+      "position": "Frontend and Backend Developer, ConsenSys",
       "website": "https://consensys.net",
       "startDate": "2017-01-01",
       "endDate": "2019-28-02",
-      "summary": "Ethereum Startup: OpenSource and Enterprise development.",
+      "summary": "Ethereum Startup Studio: Open Source and Enterprise development",
       "highlights": [
         "Ethereum PHP Library 'Ethereum-php'",
         "Ethereum Drupal module",
         "Web3-ready Ethereum Frontend Abstraction",
-        "Prove of concept: Ethereum Blockchain technology as land registry for Dubai."
+        "Proof of Concept: React Frontend for an Ethereum blockchain land registry project (Dubai)"
       ]
     },
     {
       "company": "Reinblau",
-      "position": "Front- and Backend developer",
+      "position": "Frontend and Backend Developer, Reinblau",
       "website": "https://reinblau.de",
       "startDate": "2016-01-03",
       "endDate": "2018-01-01",
       "summary": "Member of freelance web developer cooperative.",
-      "highlights": []
+      "highlights": [
+        {
+          "text": "Chrismon: Multilingual Drupal Site with lightweight, mobile-first frontend. Co-working with Meike Jung.",
+          "link": {
+            "text": "chrismon-guter-start.de",
+            "url": "https://www.chrismon-guter-start.de"
+        }
+        },
+        "Frontend implementation: Responsive redesign of reinblau.de"
+      ]
     },
     {
       "company": "Data in Transit GmbH",
-      "position": "Web developer",
-      "website": "http://dataintransit.com/",
+      "position": "Web Developer",
+      "website": "https://dataintransit.com",
       "startDate": "2014-02-01",
       "endDate": "2015-09-31",
       "summary": "Frontend lead and backend developer at a high quality Drupal agency. ",
       "highlights": [
-        "Mobile first architecture and design for University Website h-brs.de",
+        {
+          "text": "Mobile first architecture and frontend engineer for University Website",
+          "link": {
+            "text": "h-brs.de",
+            "url": "https://h-brs.de"
+          }
+        },
         "Drupal-based Intranet evaluation tool for a major German phone company",
         "High productivity agile development with Scrum Teams",
         "Introduced SMACSS standards-based CSS architecture "
@@ -93,7 +109,7 @@
     {
       "company": "Webmatch GmbH",
       "position": "Web developer",
-      "website": "http://www.webmatch.de/",
+      "website": "http://www.webmatch.de",
       "startDate": "2011-05-01",
       "endDate": "2013-09-31",
       "summary": "Marketing-focused company creating and maintaining multiple Facebook games, e-commerce shops, and Drupal and CakePHP-based websites.",
@@ -109,13 +125,13 @@
     },
     {
       "company": "Wergehthin LTD",
-      "position": "CTO / Team lead",
+      "position": "Tech lead",
       "website": "(Now offline)",
       "startDate": "2011-04-01",
       "endDate": "2013-03-31",
-      "summary": "Event/City magazine startup",
+      "summary": "City Events magazine startup",
       "highlights": [
-        "CTO and Team lead for 4 developers",
+        "Tech and Team lead for 4 developers",
         "Migrated/relaunched a Java-based site in Drupal 7",
         "Responsive redesign in Drupal 7",
         "Openlayers map integration"
@@ -142,27 +158,39 @@
     {
       "organization": "Drupal.org",
       "position": "Community member",
-      "website": "http://drupal.org",
+      "website": "https://www.drupal.org/u/digitaldonkey",
       "startDate": "2008-02-01",
       "endDate": "2099-01-01",
       "summary": "Module, Theming and Documentation commits to multiple Drupal projects. Supporter of Drupal community websites and events",
       "highlights": [
-        "Drupal Guru theme: Provides a SMACSS standards-based styleguide-driven theming approach for Drupal 8",
-        "Co-maintainer of the Drupal Ethereum Module"
+        {
+          "text": "Drupal Guru theme: Provides a SMACSS standards-based styleguide-driven theming approach for Drupal&nbsp;8",
+          "link": {
+            "text": "Guru Theme",
+            "url":"https://www.drupal.org/project/guru"
+          }
+        },
+        {
+          "text": "Maintainer of the Drupal Ethereum Module",
+          "link": {
+            "text": "Ethereum Module",
+            "url":"https://www.drupal.org/project/ethereum"
+          }
+        }
       ]
     },
     {
       "organization": "Wordpress.org",
       "position": "Community member",
-      "website": "http://wordpress.org",
+      "website": "https://wordpress.org/support/users/digitaldonkey",
       "startDate": "2010-10-14",
       "endDate": "2099-01-01",
       "summary": "Wordpress extensions and community contributions",
       "highlights": []
     },
     {
-      "organization": "Activism for data liberation and human freedom",
-      "position": "",
+      "organization": "Activism for data liberation and humanity and freedom",
+      "position": "Activist",
       "website": "",
       "startDate": "1997-06-01",
       "endDate": "2099-01-01",
@@ -204,7 +232,6 @@
         "MVC, Codeigniter, CakePHP, Symfony",
         "Phpstorm, Photoshop, Illustrator, Indesign, Balsamic Mockups, Adobe Premiere, Audition and more",
         "Linux Server, Homebrew, Macports, Apache, MYSQL, Vagrant, Docker, high performance web",
-        "SCRUM, Kanban, Redmine, Jira",
         "Git, SVN, professional workflows"
       ]
     },
@@ -212,30 +239,38 @@
       "name": "Frontend development",
       "level": "Master",
       "keywords": [
-        "Styleguide-driven development",
-        "HTML (all standards)",
-        "CSS, SASS, LESS",
-        "Javascript, JS-Frameworks, ES6, REACT, Vue, TypeScript, Angular2",
-        "Node, Npm, Webpack, Gulp, Bootstrap, Foundation, KSS-Node"
+        "Styleguide-driven development, component based architecture",
+        "HTML (all standards), CSS, SASS, LESS, clean code, accessibility, performance",
+        "Javascript, JS & CSS Frameworks, ES6, REACT, Vue, TypeScript, Angular2, Web3.",
+        "Node, Npm, Webpack, Gulp, Bootstrap, Foundation, KSS-Node..."
       ]
     },
     {
       "name": "Drupal development",
       "level": "Master",
       "keywords": [
-        "Drupal Responsive Architecture",
-        "Drupal Theming",
+        "Drupal Theming and Responsive Architecture",
         "Drupal Module development (D6-D8)",
-        "Styleguide-driven theme development"
+        "Styleguide-driven theme development",
+        "Performance optimisation, caching, site building..."
+      ]
+    },
+    {
+      "name": "DevOps",
+      "level": "Advanced",
+      "keywords": [
+        "Jenkins, TravisCi, Pantheon with CI",
+        "Docker, Docker Compose, Vagrant",
+        "Debian, Ubuntu Apache, Varnish, Memcached, Redis, OSX, Homebrew, nvm, rvm"
       ]
     },
     {
       "name": "Team building and organisation",
       "level": "",
       "keywords": [
-        "SCRUM, Kanban",
-        "Remote (first) working experience",
-        "Inclusion, Group psychology",
+        "Team focused, inclusive, open and knowledge sharing",
+        "Remote working experience, experience working in international teams",
+        "Agile: SCRUM, Kanban",
         "Ticket systems: Redmine, Github, Jira ..."
       ]
     }
@@ -263,9 +298,15 @@
       "name": "Computers",
       "keywords": [
         "Web and human interaction",
-        "Cryptography",
-        "Decentralisation, Ethereum, Bitcoin",
-        "Internet Security, Hacking"
+        "Cryptography, Decentralisation, Ethereum",
+        "Internet Security, Hacking, Data journalism"
+      ]
+    },
+    {
+      "name": "Photography",
+      "keywords": [
+        "Documentary, Photojournalism",
+        "Darkroom, Digital Imaging"
       ]
     },
     {
@@ -274,14 +315,6 @@
         "Hands-on mentality",
         "Electronics, Soldering, Raspberry Pi",
         "Woodworking, Mechatronics, Caravans"
-      ]
-    },
-    {
-      "name": "Photography",
-      "keywords": [
-        "Documentary, Photojournalism",
-        "Darkroom",
-        "Digital Imaging"
       ]
     },
     {
@@ -298,7 +331,7 @@
   "references": [
     {
       "name": "An incomplete project list you can find on my website",
-      "reference": "http://donkeymedia.eu/references"
+      "reference": "https://donkeymedia.eu/references"
     }
   ]
 }

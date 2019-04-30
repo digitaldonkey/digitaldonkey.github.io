@@ -12,13 +12,21 @@
     <div class="ui grid">
       <div class="twelve wide column no-bottom">
         <p class="ui no-bottom"><b>{{ entry.position }}, {{ entry.company }}</b></p>
+        {% if entry.website.url %}
         <p class="ui no-bottom"><a href="{{ entry.website }}">{{ entry.website | remove: "http://" | remove: "https://"
           }}</a></p>
+        {% endif %}
         <p class="ui no-bottom">{{ entry.summary }}</p>
         {% if entry.highlights %}
-        <ul style="margin: 0px;">
+        <ul style="margin: 0;">
           {% for highlight in entry.highlights %}
-          <li>{{ highlight }}</li>
+          <li>
+            {% if highlight.first %}
+            {{ highlight.text }}{% if highlight.link %}&nbsp;&nbsp;<a href="{{ highlight.link.url }}" target="_blank">{{ highlight.link.text }} <i class="icon external alternate"></i></a>{% endif %}
+            {% else %}
+              {{ highlight }}
+            {% endif %}
+          </li>
           {% endfor %}
         </ul>
         {% endif %}

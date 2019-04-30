@@ -7,16 +7,16 @@
   </div>
 
   <div class="fourteen wide column no-bottom">
-    <p class="ui no-bottom">
+    <div class="ui no-bottom">
     {% for entry in site.data.bio.skills %}
-      <p class="ui no-bottom">
-      <b>{{ entry.name }}:</b>
+      <h4 class="ui no-bottom">{{ entry.name }}</h4>
+      <div>
       {% for keyword in entry.keywords %}
-        {{ keyword }}{% if forloop.last != true %}, {% endif %}
+        {{ keyword }}{% if forloop.last != true %}<br /> {% endif %}
       {% endfor %}
-      </p>
+      </div>
     {% endfor %}
-
+    </div>
   </div>
 </div>
 {% endif %}
