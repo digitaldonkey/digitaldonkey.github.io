@@ -122,7 +122,7 @@
           }
         },
         {
-          "text": "Ethereum Drupal module",
+          "text": "Drupal Ethereum module development and presentations at Camps and Conferences",
           "link": {
             "text": "Ethereum Drupal module",
             "url": "https://github.com/digitaldonkey/ethereum"
@@ -210,8 +210,7 @@
       "highlights": [
         "Tech and Team lead for 4 developers",
         "Migrated/relaunched a Java-based site in Drupal 7",
-        "Responsive redesign in Drupal 7",
-        "Openlayers map integration"
+        "Responsive redesign in Drupal 7"
       ]
     },
     {
