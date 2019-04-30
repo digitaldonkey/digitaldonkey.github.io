@@ -90,8 +90,8 @@
       "level": "Advanced",
       "keywords": [
         "Jenkins, TravisCi, Pantheon with CI",
-        "Docker, Docker Compose, Vagrant",
-        "Debian, Ubuntu Apache, Varnish, Memcached, Redis, OSX, Homebrew, nvm, rvm"
+        "Docker, Docker Compose, Vagrant, OSX, Homebrew, nvm, rvm",
+        "Debian, Ubuntu, Apache, Varnish, Memcached, Redis"
       ]
     },
     {
