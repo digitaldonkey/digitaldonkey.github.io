@@ -20,3 +20,26 @@ body {
   // color: silver;
 }
 
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Nunito', sans-serif !important;
+}
+
+h3.ui.header {
+  font-size: 1.45rem;
+}
+
+
+.print-only {
+  display: none;
+}
+@media print {
+  .print-only {
+    display: block;
+  }
+  .row .ui{
+    page-break-inside: avoid;
+  }
+}
+
+

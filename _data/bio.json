@@ -7,7 +7,7 @@
     "phone": "+49 177 5387924",
     "website": "https://donkeymedia.eu",
     "summary": "Thorsten Krug is a senior full-stack web developer with a passion for open source software, agile teamwork and mobile-first architecture and design. He started creating websites in 1997 and graduated from a photo and media program engineering in 2006.",
-    "summaryExtended": "Experienced in backend PHP programming, module/plugin development with popular CMS plattforms are part of my skill set as well as a professional experience with decentralized blockchain technology.",
+    "summaryExtended": "Experienced in backend PHP programming. Module/plugin development with popular CMS platforms are part of my skill set as well as a professional experience with decentralized blockchain technology.",
     "location": {
       "address": "Eythstr. 29",
       "postalCode": "51103",
@@ -274,8 +274,7 @@
       "summary": "I support organisations and loosely-bound activist groups caring for (data-)freedom, community, right to asylum and political change by working in media/public relations groups, providing digital support and creating and maintaining websites and donations. ",
       "highlights": [
         "Public relations groups for local activists",
-        "Chaos Computer Club (CCC), Cryptoparty",
-        "Pro Asylum groups"
+        "Chaos Computer Club (CCC), Cryptoparty"
       ]
     }
   ],
@@ -346,7 +345,7 @@
       "name": "Sports",
       "keywords": [
         "Climbing",
-        "Hikiing",
+        "Hiking",
         "Cycling",
         "Volleyball",
         "Badminton"

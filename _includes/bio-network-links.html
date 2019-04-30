@@ -1,9 +1,19 @@
 <!-- Used by theme-bio-builtin-1,2 -->
-
+<table style="text-align: left; float: right;">
 {% if site.data.bio.basics.website %}
-  <p class="ui"><a href="{{ site.data.bio.basics.website }}" target="_blank"> <i class="large home icon "></i>{{ site.data.bio.basics.website | remove: "http://" | remove: "https://" }}</a></p>
-{% endif %}
+  <tr class="ui"><td>
+    <p class="ui" ><a href="{{ site.data.bio.basics.website }}" target="_blank"> <i class="large home icon "></i>{{ site.data.bio.basics.website | remove: "http://" | remove: "https://" }}</a>
+      <small class="print-only" style="padding-left: 2em;">{{ site.data.bio.basics.website }}</small>
+    </p>
+  </td></tr>
+  {% endif %}
 
 {% for entry in site.data.bio.basics.profiles %}
-     <p class="ui"><a href="{{ entry.url }}" target="_blank"> <i class="large {{ entry.network | downcase }} icon "></i>{{ entry.username }}</a></p>
+     <tr ><td>
+       <p class="ui" ><a href="{{ entry.url }}" target="_blank" style="line-height: 2em;"> <i class="large {{ entry.network | downcase }} icon "></i>{{ entry.username }}</a>
+        <small class="print-only" style="padding-left: 2em;">{{ entry.url }}</small>
+       </p>
+     </td>
+     </tr>
 {% endfor %}
+</table>
