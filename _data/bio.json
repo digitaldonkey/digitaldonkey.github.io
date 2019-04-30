@@ -62,9 +62,27 @@
       "endDate": "2019-28-02",
       "summary": "Ethereum Startup Studio: Open Source and Enterprise development",
       "highlights": [
-        "Ethereum PHP Library 'Ethereum-php'",
-        "Ethereum Drupal module",
-        "Web3-ready Ethereum Frontend Abstraction",
+        {
+          "text": "Ethereum PHP Library",
+          "link": {
+            "text": "Ethereum-php",
+            "url": "https://github.com/digitaldonkey/ethereum-php"
+          }
+        },
+        {
+          "text": "Ethereum Drupal module",
+          "link": {
+            "text": "Ethereum Drupal module",
+            "url": "https://github.com/digitaldonkey/ethereum"
+          }
+        },
+        {
+          "text": "Web3-ready Ethereum Frontend Abstraction",
+          "link": {
+            "text": "Web3ready on github",
+            "url": "https://github.com/digitaldonkey/web3ready"
+          }
+        },
         "Proof of Concept: React Frontend for an Ethereum blockchain land registry project (Dubai)"
       ]
     },
@@ -81,7 +99,14 @@
           "link": {
             "text": "chrismon-guter-start.de",
             "url": "https://www.chrismon-guter-start.de"
-        }
+          }
+        },
+        {
+          "text": "Relaunch GZEVD website in Jekyll with Maike Jung.",
+          "link": {
+            "text": "gesellschaft-zur-entwicklung-von-dingen.de",
+            "url": "https://www.gesellschaft-zur-entwicklung-von-dingen.de"
+          }
         },
         "Frontend implementation: Responsive redesign of reinblau.de"
       ]
@@ -331,7 +356,8 @@
   "references": [
     {
       "name": "An incomplete project list you can find on my website",
-      "reference": "https://donkeymedia.eu/references"
+      "linkText": "donkeymedia.eu/references",
+      "url": "https://donkeymedia.eu/references"
     }
   ]
 }

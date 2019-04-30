@@ -8,10 +8,9 @@
 
   <div class="fourteen wide column no-bottom">
     <p class="ui no-bottom">
-    {% for entry in site.data.bio.references %}
-      {{ entry.name }}
-      {% if entry.reference and entry.reference.size > 0 %}
-        <em>{{ entry.reference }}</em>
+    {% for reference in site.data.bio.references %}
+      {% if reference and reference.size > 0 %}
+      {{ reference.name }}&nbsp;&nbsp;<a href="{{ reference.url }}" target="_blank">{{ reference.linkText }} <i class="icon external alternate"></i></a>
       {% endif %}
     {% endfor %}
     </p>
