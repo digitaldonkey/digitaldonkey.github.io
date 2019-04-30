@@ -6,8 +6,8 @@
 	"email": "thorsten.krug@donkeymedia.eu",
     "phone": "+49 177 5387924",
     "website": "https://donkeymedia.eu",
-    "summary": "Thorsten Krug started creating websites in 1997. He graduated from a photo engineering program and is a senior full-stack web developer with a passion for open source software, agile teamwork and mobile-first architecture and design. ",
-    "summaryExtended": "Experienced in backend PHP programming, module/plugin development with popular CMS are part of my skill set as well as a professional experience with decentralized blockchain technology.",
+    "summary": "Thorsten Krug is a senior full-stack web developer with a passion for open source software, agile teamwork and mobile-first architecture and design. He started creating websites in 1997 and graduated from a photo and media program engineering in 2006.",
+    "summaryExtended": "Experienced in backend PHP programming, module/plugin development with popular CMS plattforms are part of my skill set as well as a professional experience with decentralized blockchain technology.",
     "location": {
       "address": "Eythstr. 29",
       "postalCode": "51103",
@@ -53,10 +53,62 @@
       }
     ]
   },
+  "skills": [
+    {
+      "name": "Frontend development",
+      "level": "Master",
+      "keywords": [
+        "Styleguide-driven development, component based architecture",
+        "HTML (all standards), CSS, SASS, LESS, clean code, accessibility, performance",
+        "Javascript, JS & CSS Frameworks, ES6, REACT, Vue, TypeScript, Angular2, Web3.",
+        "Node, Npm, Webpack, Gulp, Bootstrap, Foundation, KSS-Node..."
+      ]
+    },
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "Drupal 6-8, Shopware, Wordpress, OpenCMS and many more",
+        "MVC, Codeigniter, CakePHP, Symfony",
+        "Phpstorm, Photoshop, Illustrator, Indesign, Balsamic Mockups, Adobe Premiere, Audition and more",
+        "Linux Server, Homebrew, Macports, Apache, MYSQL, Vagrant, Docker, high performance web",
+        "Git, SVN, professional workflows"
+      ]
+    },
+    {
+      "name": "Drupal development",
+      "level": "Master",
+      "keywords": [
+        "Drupal Theming and Responsive Architecture",
+        "Drupal Module development (D6-D8)",
+        "Styleguide-driven theme development",
+        "Performance optimisation, caching, site building..."
+      ]
+    },
+    {
+      "name": "DevOps",
+      "level": "Advanced",
+      "keywords": [
+        "Jenkins, TravisCi, Pantheon with CI",
+        "Docker, Docker Compose, Vagrant",
+        "Debian, Ubuntu Apache, Varnish, Memcached, Redis, OSX, Homebrew, nvm, rvm"
+      ]
+    },
+    {
+      "name": "Team building and organisation",
+      "level": "",
+      "keywords": [
+        "Team focused, inclusive, open and knowledge sharing",
+        "Remote working experience, experience working in international teams",
+        "Agile: SCRUM, Kanban",
+        "Ticket systems: Redmine, Github, Jira ..."
+      ]
+    }
+  ],
   "work": [
     {
       "company": "ConsenSys",
-      "position": "Frontend and Backend Developer, ConsenSys",
+      "position": "Frontend and Backend Developer",
       "website": "https://consensys.net",
       "startDate": "2017-01-01",
       "endDate": "2019-28-02",
@@ -88,7 +140,7 @@
     },
     {
       "company": "Reinblau",
-      "position": "Frontend and Backend Developer, Reinblau",
+      "position": "Frontend and Backend Developer",
       "website": "https://reinblau.de",
       "startDate": "2016-01-03",
       "endDate": "2018-01-01",
@@ -246,58 +298,6 @@
       "releaseDate": "2006-01-01",
       "website": "https://www.yumpu.com/de/document/view/39798405/diplomarbeit-pdf-35mb-donkeymedia/1",
       "summary": "This document is an investigation of previous approaches for Color Management within the World Wide Web and analyses recommendations for Color Management of the W3C with respect to cross-media publishing using XML-based documents. The intended audience is web developers aiming to use Color Management functions within web applications. The practical part is about using open source software for server-side image manipulation."
-    }
-  ],
-  "skills": [
-    {
-      "name": "Web Development",
-      "level": "Master",
-      "keywords": [
-        "Drupal 6-8, Shopware, Wordpress, OpenCMS and many more",
-        "MVC, Codeigniter, CakePHP, Symfony",
-        "Phpstorm, Photoshop, Illustrator, Indesign, Balsamic Mockups, Adobe Premiere, Audition and more",
-        "Linux Server, Homebrew, Macports, Apache, MYSQL, Vagrant, Docker, high performance web",
-        "Git, SVN, professional workflows"
-      ]
-    },
-    {
-      "name": "Frontend development",
-      "level": "Master",
-      "keywords": [
-        "Styleguide-driven development, component based architecture",
-        "HTML (all standards), CSS, SASS, LESS, clean code, accessibility, performance",
-        "Javascript, JS & CSS Frameworks, ES6, REACT, Vue, TypeScript, Angular2, Web3.",
-        "Node, Npm, Webpack, Gulp, Bootstrap, Foundation, KSS-Node..."
-      ]
-    },
-    {
-      "name": "Drupal development",
-      "level": "Master",
-      "keywords": [
-        "Drupal Theming and Responsive Architecture",
-        "Drupal Module development (D6-D8)",
-        "Styleguide-driven theme development",
-        "Performance optimisation, caching, site building..."
-      ]
-    },
-    {
-      "name": "DevOps",
-      "level": "Advanced",
-      "keywords": [
-        "Jenkins, TravisCi, Pantheon with CI",
-        "Docker, Docker Compose, Vagrant",
-        "Debian, Ubuntu Apache, Varnish, Memcached, Redis, OSX, Homebrew, nvm, rvm"
-      ]
-    },
-    {
-      "name": "Team building and organisation",
-      "level": "",
-      "keywords": [
-        "Team focused, inclusive, open and knowledge sharing",
-        "Remote working experience, experience working in international teams",
-        "Agile: SCRUM, Kanban",
-        "Ticket systems: Redmine, Github, Jira ..."
-      ]
     }
   ],
   "languages": [
