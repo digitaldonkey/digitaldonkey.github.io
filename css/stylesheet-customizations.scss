@@ -37,8 +37,10 @@ h3.ui.header {
   .print-only {
     display: block;
   }
-  .row .ui{
+  .row, .column, li {
     page-break-inside: avoid;
+    page-break-inside: avoid-page;
+
   }
 }
 
