@@ -107,6 +107,24 @@
   ],
   "work": [
     {
+      "company": "GzeVD / Publicplan / Freelance",
+      "position": "Drupal distribution developer",
+      "website": "https://publicplan.de/produkte/degov-e-government-mit-drupal-8",
+      "startDate": "2020-01-04",
+      "endDate": "2020-18-10",
+      "summary": "Maintainer team for Drupal deGov and nrwGov distribution",
+      "highlights": [
+        {
+          "text": "Working with the maintainer team on the",
+          "link": {
+            "text": "deGov Drupal distribution",
+            "url": "https://bitbucket.org/publicplan/degov/src/2100a2318040cb081b47acaa581b08a4565e3521/?at=release%2F8.5.x-dev"
+          }
+        },
+        "nrwGov - private distribution of the IT department at the state Northrhin-Westfalia"
+      ]
+    },
+    {
       "company": "ConsenSys",
       "position": "Frontend and Backend Developer",
       "website": "https://consensys.net",
