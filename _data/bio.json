@@ -13,7 +13,7 @@
       "postalCode": "10997",
       "city": "Berlin",
       "countryCode": "DE",
-      "region": ""
+      "region": "Berlin"
     },
     "profiles": [
       {
@@ -144,6 +144,27 @@
           "link": {
             "text": "Ethereum Drupal module",
             "url": "https://github.com/digitaldonkey/ethereum"
+          }
+        },
+        {
+          "text": "Speaker at Drupalcon Baltimore 2017",
+          "link": {
+            "text": "Drupal and the Ethereum Blockchain",
+            "url": "https://events.drupal.org/baltimore2017/sessions/drupal-and-ethereum-blockchain.html"
+          }
+        },
+        {
+          "text": "Speaker at Drupalcon Vienna 2017",
+          "link": {
+            "text": "Drupal and the Ethereum Blockchain",
+            "url": "https://events.drupal.org/vienna2017/sessions/drupal-and-ethereum-blockchain.html"
+          }
+        },
+        {
+          "text": "Speaker at DrupalEurope 2018",
+          "link": {
+            "text": "Drupal and the Ethereum Blockchain",
+            "url": "https://www.drupaleurope.org/session/drupal-and-ethereum-blockchain.html"
           }
         },
         {
