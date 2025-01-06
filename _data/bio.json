@@ -68,10 +68,10 @@
       "name": "Web Development",
       "level": "Master",
       "keywords": [
-        "Drupal 6-8, Shopware, Wordpress, OpenCMS and many more",
-        "MVC, Codeigniter, CakePHP, Symfony",
-        "Phpstorm, Photoshop, Illustrator, Indesign, Balsamic Mockups, Adobe Premiere, Audition and more",
-        "Linux, Mac, MYSQL, Docker, high performance web",
+        "Drupal 6-10, Wordpress, Shopware, OpenCMS and many more",
+        "Symfony, MVC, Codeigniter, CakePHP",
+        "Phpstorm, DDEV, Photoshop, Illustrator, Indesign, Balsamic Mockups, Adobe Premiere, Audition and more",
+        "Linux, Mac, MYSQL, Docker, ddev, high performance web",
         "Git, SVN, professional workflows"
       ]
     },
@@ -80,7 +80,7 @@
       "level": "Master",
       "keywords": [
         "Drupal Theming and Responsive Architecture",
-        "Drupal Module development (D6-D8)",
+        "Drupal Module development (D6-D10)",
         "Styleguide-driven theme development",
         "Performance optimisation, caching, site building..."
       ]
@@ -89,7 +89,7 @@
       "name": "DevOps",
       "level": "Advanced",
       "keywords": [
-        "Jenkins, TravisCi, Pantheon with CI",
+        "CircleCi, Jenkins, TravisCi, Pantheon with CI",
         "Docker, Docker Compose, Vagrant, OSX, Homebrew, nvm, rvm",
         "Debian, Ubuntu, Apache, Varnish, Memcached, Redis"
       ]
@@ -111,8 +111,8 @@
       "position": "Drupal distribution developer",
       "website": "https://publicplan.de/produkte/degov-e-government-mit-drupal-8",
       "startDate": "2019-11-12",
-      "endDate": "2020-18-10",
-      "summary": "Maintainer team for Drupal deGov and nrwGov distribution",
+      "endDate": "2022-08-16",
+      "summary": "Maintainer team for Drupal deGov and nrwGov distribution, Kulturis distribution",
       "highlights": [
         {
           "text": "Working with the maintainer team on the",
