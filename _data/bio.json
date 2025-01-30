@@ -102,6 +102,36 @@
   ],
   "work": [
     {
+      "company": "Freelance",
+      "position": "Drupal distribution developer",
+      "startDate": "2022-08-16",
+      "endDate": "2024-01-01",
+      "summary": "Papa with some little projects",
+      "highlights": [
+        {
+          "text": "Rewriting a Wordpress iCal Plugin",
+          "link": {
+            "text": "Open Source Event Calendar is a fork of All-in-one-Event Calendar. Migrating 15 year old PHP code into modern PHP-Composer based code. Build testing pipelines (circleci), add tests, upgrade to current WO standards.",
+            "url": "https://github.com/digitaldonkey/open-source-event-calendar"
+          }
+        },
+        {
+          "text": "Drupal Upgrade 9.3 to 10.x",
+          "link": {
+            "text": "Upgrading a complex grown website of Moltke Gymnasium",
+            "url": "https://moltke.de"
+          }
+        },
+        {
+          "text": "Myniverse - A Mastodon aggregation tool",
+          "link": {
+            "text": "Finding good information sources in the Fediverse is not easy. I created pet project in React allowing nerds to analyze and aggregate trends and in your selected Fedivers bubble. Live at myniverse.org",
+            "url": "https://github.com/digitaldonkey/myniverse"
+          }
+        }
+      ]
+    },
+    {
       "company": "GzeVD / Publicplan / Freelance",
       "position": "Drupal distribution developer",
       "website": "https://publicplan.de/produkte/degov-e-government-mit-drupal-8",
