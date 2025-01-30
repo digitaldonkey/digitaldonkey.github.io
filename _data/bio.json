@@ -103,29 +103,29 @@
   "work": [
     {
       "company": "Freelance",
-      "position": "Drupal distribution developer",
+      "position": "Papa with some little projects",
       "startDate": "2022-08-16",
       "endDate": "2024-01-01",
-      "summary": "Papa with some little projects",
+      "summary": "Small projects grow bigger.",
       "highlights": [
         {
-          "text": "Rewriting a Wordpress iCal Plugin",
+          "text": "Rewriting a Wordpress iCal Plugin. After many years I've found out that WordPress has no free Plugin left to aggregate iCal feeds. Forking 'All-in-one-Event Calendar', migrating 15 year old PHP code into modern PHP-Composer based code. Build testing pipelines (circleci), add tests, upgrade to current WP standards.",
           "link": {
-            "text": "Open Source Event Calendar is a fork of All-in-one-Event Calendar. Migrating 15 year old PHP code into modern PHP-Composer based code. Build testing pipelines (circleci), add tests, upgrade to current WO standards.",
+            "text": "Open Source Event Calendar",
             "url": "https://github.com/digitaldonkey/open-source-event-calendar"
           }
         },
         {
-          "text": "Drupal Upgrade 9.3 to 10.x",
+          "text": "Drupal Upgrade 9.3 to 10.x. Upgrading a complex grown website of ",
           "link": {
-            "text": "Upgrading a complex grown website of Moltke Gymnasium",
+            "text": "Moltke Gymnasium",
             "url": "https://moltke.de"
           }
         },
         {
-          "text": "Myniverse - A Mastodon aggregation tool",
+          "text": "Myniverse - A Mastodon aggregation tool. Finding good information sources in the Fediverse is not easy. I created pet project in React allowing nerds to analyze and aggregate trends and in your selected Fedivers bubble. Live at myniverse.org",
           "link": {
-            "text": "Finding good information sources in the Fediverse is not easy. I created pet project in React allowing nerds to analyze and aggregate trends and in your selected Fedivers bubble. Live at myniverse.org",
+            "text": "https://github.com/digitaldonkey/myniverse",
             "url": "https://github.com/digitaldonkey/myniverse"
           }
         }
