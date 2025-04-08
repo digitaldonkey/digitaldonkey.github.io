@@ -53,9 +53,10 @@
       "name": "Frontend development",
       "level": "Master",
       "keywords": [
-        "Styleguide-driven development, component based architecture",
+        "Styleguide-driven development, component based architecture, Atomic Design",
         "HTML (all standards), CSS, SASS, LESS, clean code, accessibility, performance",
         "Javascript, JS & CSS Frameworks, ES6, REACT, Vue, TypeScript, Angular2, Web3.",
+		"Testing with Mocha, Selenium, Backstop...",
         "Node, Npm, Webpack, Gulp, Bootstrap, Foundation, KSS-Node..."
       ]
     },
@@ -63,7 +64,7 @@
       "name": "Web Development",
       "level": "Master",
       "keywords": [
-        "Drupal 6-10, Wordpress, Shopware, OpenCMS and many more",
+        "Drupal 6-11, Wordpress, Shopware, OpenCMS and many more",
         "Symfony, MVC, Codeigniter, CakePHP",
         "Phpstorm, DDEV, Photoshop, Illustrator, Indesign, Balsamic Mockups, Adobe Premiere, Audition and more",
         "Linux, Mac, MYSQL, Docker, ddev, high performance web",
@@ -86,7 +87,8 @@
       "keywords": [
         "CircleCi, Jenkins, TravisCi, Pantheon with CI",
         "Docker, Docker Compose, Vagrant, OSX, Homebrew, nvm, rvm",
-        "Debian, Ubuntu, Apache, Varnish, Memcached, Redis"
+        "Debian, Ubuntu, Apache, Varnish, Memcached, Redis",
+        "developing testing pipelines"
       ]
     },
     {
