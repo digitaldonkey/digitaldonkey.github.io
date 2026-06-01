@@ -103,20 +103,43 @@
     }
   ],
   "work": [
-    {
-      "company": "Freelance",
-      "position": "Papa with some little projects",
-      "startDate": "2022-08-16",
-      "endDate": "2024-01-01",
-      "summary": "Small projects grow bigger.",
+   {
+      "company": "Volunteering my own time",
+      "position": "Wordpress Developer, Frontend Developer, Code Archeoligist",
+      "startDate": "2023-01-01",
+      "endDate": "2099-01-01",
+      "summary": "Rewriting a Wordpress iCal Plugin",
       "highlights": [
         {
-          "text": "Rewriting a Wordpress iCal Plugin. After many years I've found out that WordPress has no free Plugin left to aggregate iCal feeds. Forking 'All-in-one-Event Calendar', migrating 15 year old PHP code into modern PHP-Composer based code. Build testing pipelines (circleci), add tests, upgrade to current WP standards.",
+          "text": "Rewriting a Wordpress iCal Plugin. After many years I've found out that WordPress has no free Plugin left to aggregate iCal feeds. Forking 'All-in-one-Event Calendar', migrating 15 year old PHP code into modern PHP-Composer based code.",
           "link": {
             "text": "Open Source Event Calendar",
             "url": "https://github.com/digitaldonkey/open-source-event-calendar"
           }
         },
+				{
+          "text": "Build testing pipelines (circleci), add PHP-Unit testing, Mocha/Selenium integration testing.",
+          "link": {
+            "text": "Open Source Event Calendar @ circleci.com",
+            "url": "https://app.circleci.com/pipelines/gh/digitaldonkey/open-source-event-calendar"
+          }
+        },
+				{
+          "text": "After upgrading this complex Plugin to current WP standards and some discussion with WordPress Plugin Team I finally managed to get the exception to republish this Fork on wordpress.org",
+          "link": {
+            "text": "Open Source Event Calendar @wordpress.org",
+            "url": "https://wordpress.org/plugins/open-source-event-calendar"
+          }
+        }
+      ]
+    },
+    {
+      "company": "Freelance",
+      "position": "Drupal Developer",
+      "startDate": "2023-10-01",
+      "endDate": "202024-01-15",
+      "summary": "Drupal migration",
+      "highlights": [
         {
           "text": "Drupal Upgrade 9.3 to 10.x. Upgrading a complex grown website of ",
           "link": {
@@ -124,7 +147,17 @@
             "url": "https://moltke.de"
           }
         },
-        {
+
+      ]
+    },
+    {
+      "company": "Family",
+      "position": "Parental Leave - Papa with some little projects",
+      "startDate": "2022-08-16",
+      "endDate": "2023-01-16",
+      "summary": "Elternzeit. Only pet projects",
+      "highlights": [
+				{
           "text": "Myniverse - A Mastodon aggregation tool. Finding good information sources in the Fediverse is not easy. I created pet project in React allowing nerds to analyze and aggregate trends and in your selected Fedivers bubble. Live at myniverse.org",
           "link": {
             "text": "https://github.com/digitaldonkey/myniverse",
