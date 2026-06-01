@@ -9,7 +9,7 @@
     "summary": "Thorsten Krug is a senior full-stack web developer with a passion for open source software, agile teamwork and mobile-first architecture and design. He started creating websites in 1997 and graduated from a photo and media program engineering in 2006.",
     "summaryExtended": "Experienced in backend PHP programming. Module/plugin development with popular CMS platforms are part of my skill set as well as a professional experience with decentralized blockchain technology.",
     "location": {
-      "address": "Görlitzer Str 65",
+      "address": "Görlitzer Str 67",
       "postalCode": "10997",
       "city": "Berlin",
       "countryCode": "DE",
@@ -98,7 +98,7 @@
         "Team focused, inclusive, open and knowledge sharing",
         "Remote working experience, experience working in international teams",
         "Agile: SCRUM, Kanban",
-        "Ticket systems: Redmine, Github, Jira ..."
+        "Ticket systems: Redmine, Gitlab, Github, Jira ..."
       ]
     }
   ],
@@ -111,7 +111,7 @@
       "summary": "Rewriting a Wordpress iCal Plugin",
       "highlights": [
         {
-          "text": "Rewriting a Wordpress iCal Plugin. After many years I've found out that WordPress has no free Plugin left to aggregate iCal feeds. Forking 'All-in-one-Event Calendar', migrating 15 year old PHP code into modern PHP-Composer based code.",
+          "text": "After many years I've found out that business oriented WordPress community has no free Plugin left create, display events and aggregate iCal feeds. Forking my old love 'All-in-one-Event Calendar', migrating about 250k Lines of mixed incomplete, moderately documented 15 year old PHP/JS/(S)CSS code into modern PHP-Composer based code was a huge effort. But I belive in a decentralizes open web and the Ical standards RFC 2445/5545 enable exactly that. I deeply belive everyone should be able to provide calendar feeds in an open web without requireing to add his credit card information or do payments.",
           "link": {
             "text": "Open Source Event Calendar",
             "url": "https://github.com/digitaldonkey/open-source-event-calendar"
